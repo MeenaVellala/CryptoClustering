@@ -43,6 +43,6 @@ Files
 -----------------------------------------------------------------------
 crypto_market_data.csv: The raw dataset containing the cryptocurrency data.
 
-crypto_clustering_code.ipynb: The Jupyter Notebook where all steps are implemented, including data preprocessing, clustering, and visualizations.
+Crypto_Clustering_code.ipynb: The Jupyter Notebook where all steps are implemented, including data preprocessing, clustering, and visualizations.
 
 
